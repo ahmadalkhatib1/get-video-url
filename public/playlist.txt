@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3APAJ3Y" group-title="Live TV",MBC Bollywood
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86fftF6.png" group-title="Live TV",Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O3tRhpO.png" group-title="Live TV",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3AM8G5q" group-title="Live TV",UTV Arabia
+https://live-ak.vimeocdn.com/exp=1669552534~acl=%2Fd5fa7f25-1289-4e22-9cb6-dd8367479edd%2F%2A~hmac=2710dc820af47ad8840c15ebcc36660a346973a77c8aac0f78a9a8f9764b1857/d5fa7f25-1289-4e22-9cb6-dd8367479edd/chunklist_b3256000.m3u8?max_segments=10
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3XDfFHu" group-title="Al Forsan Al Thalatha",Al Forsan Al Thalatha S01 E01
+https://cdn.alarab.com/h264/170678_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3XDfFHu" group-title="Al Forsan Al Thalatha",Al Forsan Al Thalatha S01 E02
+https://cdn.alarab.com/h264/170679_480p.mp4/index-v1-a1.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Yaaro (2022)" tvg-logo="https://mycimaa.tube/wp-content/uploads/2022/03/Yaaro-2022-347x520.jpg" group-title="India Films",Yaaro (2022)
+https://video-url-ahmad.glitch.me/?url=tinyurl.com/4enbvmf6
+
+
