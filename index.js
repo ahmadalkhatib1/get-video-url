@@ -21,7 +21,6 @@ function MyCima(link, res) {
 
 
           res.redirect(videoUrl);
-
           console.log(videoUrl);
         }
       });
